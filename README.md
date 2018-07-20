@@ -1,2 +1,2 @@
 # smart-brain-api
-Facerecognition server
+Facerecognition server heroku
